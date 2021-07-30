@@ -1,6 +1,6 @@
 ### Hi, I'm Sotiris 👋
 
-I like solving problems using technology and code. I am a Software engineer at Microsoft in the Azure Core OS team. I am trying to make Windows the best Edge computing platform. Currently I am contributing to [Envoy Proxy](https://github.com/envoyproxy/envoy).
+I like solving problems using technology and code. I am a Software engineer at Microsoft in the Azure Core OS team. Currently I am building service mesh for Windows containers. I am contributing to [Envoy Proxy](https://github.com/envoyproxy/envoy) and [OSM](https://github.com/openservicemesh/osm)
 
 If you built something using Envoy on Windows, please reach out! I would love to learn more about it.
 
