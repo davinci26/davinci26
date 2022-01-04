@@ -1,6 +1,6 @@
 ### Hi, I'm Sotiris 👋
 
-I like solving problems using technology and code.
+I like solving problems using technology and code. I currently work at Reddit on their cloud infrastructure team
 
 I worked as a Software engineer at Microsoft in the Azure Core OS team. At Microsoft I worked on building the first cross-platform service mesh implementation which we presented on [KubeCon2021](https://youtu.be/ggvaAbjx4jo). At that time I was a maintainer of [Envoy Proxy](https://github.com/envoyproxy/envoy) and a contributor at [OSM](https://github.com/openservicemesh/osm).
 
